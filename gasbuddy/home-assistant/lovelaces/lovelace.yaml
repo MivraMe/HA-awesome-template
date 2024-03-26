@@ -1,0 +1,5 @@
+type: map
+entities:
+  - entity: sensor.gasbuddy_##UNIQUE_NAME##_data
+    label_mode: state
+title: Essence
